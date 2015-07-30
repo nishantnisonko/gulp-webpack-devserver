@@ -1,18 +1,10 @@
 # gulp-webpack-devserver
 boiler plate configuration having following features  A task manager, A development server, A module bundler
 
-<p style="padding-left: 150px;"><a href="http://www.knowstack.com/wp-content/uploads/2015/07/Unknown-2.jpeg"><img class="  wp-image-1680 alignleft" src="http://www.knowstack.com/wp-content/uploads/2015/07/Unknown-2.jpeg" alt="Unknown-2" width="177" height="177" /> </a></p>
-&nbsp;
+<img class="  wp-image-1680 alignleft" src="http://www.knowstack.com/wp-content/uploads/2015/07/Unknown-2.jpeg" alt="Unknown-2" width="177" height="177" /> 
 
 <img class="  wp-image-1679 alignleft" src="http://www.knowstack.com/wp-content/uploads/2015/07/Unknown-300x162.jpeg" alt="Unknown" width="285" height="154" />
 
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
 
 In a typical frontend Development environment, it is typical for developers to have a boiler plate configuration to have a ready to start coding project setup, which would include the following features already built in for swift and clean build and testing
 <ol>
