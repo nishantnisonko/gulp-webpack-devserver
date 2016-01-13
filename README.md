@@ -128,7 +128,7 @@ Get all the dependencies:
  gutil.log("[webpack-dev-server]", "http://localhost:8080/webpack-dev-server/index.html");
  });
  });</code></pre>
-<h5 style="padding-left: 30px;">7.3 Now let's etup the watcher in Gulp which shall look for all changes in the statc resources and invoke the webpack instantly.</h5>
+<h5 style="padding-left: 30px;">7.3 Now let's setup the watcher in Gulp which shall look for all changes in the statc resources and invoke the webpack instantly.</h5>
 <pre style="padding-left: 60px;"><code> gulp.task('watch', function() {
  gulp.watch(path.ALL, ['webpack']);
  });</code></pre>
